@@ -75,7 +75,7 @@ Replace `your_project_folder_name` with your project folder name. If your worksp
 				"your_executable_name"
 ```
 ## 3. Create a launch.json file
-Create a file called launch.json in your .vscode folder. Then copy and paste this code into your launch.json file.
+Create a file called `launch.json` in your `.vscode` folder. Then copy and paste this code into your launch.json file.
 ```json
 {
 	"version": "0.2.0",
