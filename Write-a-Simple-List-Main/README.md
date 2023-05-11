@@ -71,6 +71,6 @@ In the end, we released the memory allocated to the lists
 	free(l3);
 ```
 
-In this repository folder I left a example called lsts_main.c.
+In this repository folder I left a example called lsts_main.c. If you want to see more lists exercises and examples, [here](https://github.com/waltergcc/42-Piscine/tree/main/C12) is a link to my C12 folder, where I did all the exercises that only work with linked lists.
 
 It's all! :smile:
