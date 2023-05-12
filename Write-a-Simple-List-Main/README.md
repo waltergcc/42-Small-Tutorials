@@ -1,8 +1,8 @@
-# Write a Simple List Main
+# Write a Simple Linked List Main
 This is a simple way to write a main to test your listed list functions. Follow the commented code.
 
-## 1. Incluir bibliotecas
-São usadas as bibliotecas `stidio` e `stdlib`.
+## 1. Include libraries
+`stdio` and `stdlib` libraries are used. `stdio` for printf and `stdlib` for malloc and free. 
 ```c
 #include <stdio.h>
 #include <stdlib.h>  
